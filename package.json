@@ -1,0 +1,12 @@
+{
+  "name": "Spotify APK (Premium Desbloqueado)",
+  "version": "1.0.0",
+  "description": "Spotify APK (Premium Desbloqueado).",
+  "main": "index.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
